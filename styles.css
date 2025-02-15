@@ -11,7 +11,7 @@ html {
       }
       @font-face {
   font-family: 'Mexon';
-  src: url('/assets/Mexon.ttf') format('truetype');
+  src: url('assets/Mexon.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
